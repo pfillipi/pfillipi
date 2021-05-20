@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vonweizsacker" height="30" width="40" /></a>
 <a href="https://twitter.com/vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vonweizsacker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pereirafi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pereirafi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pfillipi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14904318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14904318" height="30" width="40" /></a>
 <a href="https://kaggle.com/5187330" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="5187330" height="30" width="40" /></a>
 <a href="https://fb.com/pereirafillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pereirafillipi" height="30" width="40" /></a>
@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pfillipi&show_icons=true&locale=en&layout=compact" alt="pfillipi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pereirafi&show_icons=true&locale=en" alt="pfillipi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pfillipi&show_icons=true&locale=en" alt="pfillipi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pfillipi&" alt="pfillipi" /></p>
