@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fillipi</h1>
-<h3 align="center">A instense fullstack developer from Brazil</h3>
+<h1 align="center">Hi 👋, Jeg er Fillipi</h1>
+<h3 align="center">Jeg er en intens fullstacksingeniør Asker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profile%20views&color=0e75b6&style=flat" alt="pfillipi" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vonweizsacker" target="blank"><img src="https://img.shields.io/twitter/follow/vonweizsacker?logo=twitter&style=for-the-badge" alt="vonweizsacker" /></a> </p>
 
-- 🌱 I’m currently learning **more about JavaScript and React Native**
+- 🌱 For tiden kommer dypere på **JavaScript**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Spør meg om **Javascript**
 
-- 📫 How to reach me **fillipi@qq.com**
+- 📫 Hvordan nå meg **pfillipi@gmx.de**
 
-- ⚡ Fun fact **I am an actual globetrotter**
+- ⚡ Morsomt faktum **Jeg er en faktisk Globetrotter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
