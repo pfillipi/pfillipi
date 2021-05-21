@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, jeg er Fillipi!</h1>
+<h1 align="center">Hei 👋, jeg er Fillipi!</h1>
 <h3 align="center">Jeg er en intens fullstacksingeniør frå Asker!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profile%20views&color=0e75b6&style=flat" alt="pfillipi" /> </p>
