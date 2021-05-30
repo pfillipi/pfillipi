@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pfillipi" alt="pfillipi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vonweizsacker" target="blank"><img src="https://img.shields.io/twitter/follow/vonweizsacker?logo=twitter&style=for-the-badge" alt="vonweizsacker" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vpfillipi" target="blank"><img src="https://img.shields.io/twitter/follow/vpfillipi?logo=twitter&style=for-the-badge" alt="vpfillipi" /></a> </p>
 
 - 🌱 For tiden kommer dypere på **JavaScript**
 
@@ -18,12 +18,12 @@
 <h3 align="left">Ta kontakt med meg:</h3>
 <p align="left">
 <a href="https://codepen.io/vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vonweizsacker" height="30" width="40" /></a>
-<a href="https://twitter.com/vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vonweizsacker" height="30" width="40" /></a>
+<a href="https://twitter.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vpfillipi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pfillipi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14904318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14904318" height="30" width="40" /></a>
 <a href="https://kaggle.com/5187330" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="5187330" height="30" width="40" /></a>
-<a href="https://fb.com/pereirafillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pereirafillipi" height="30" width="40" /></a>
-<a href="https://instagram.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pettersensv" height="30" width="40" /></a>
+<a href="https://fb.com/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pfillipi" height="30" width="40" /></a>
+<a href="https://instagram.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vpfillipi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uckv0ybzw0rfsr0qxiwjpaxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckv0ybzw0rfsr0qxiwjpaxq" height="30" width="40" /></a>
 <a href="https://discord.gg/UHk5KbFY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="UHk5KbFY" height="30" width="40" /></a>
 </p>
