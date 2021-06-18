@@ -17,7 +17,7 @@
 
 <h3 align="left">Ta kontakt med meg:</h3>
 <p align="left">
-<a href="https://codepen.io/vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="vonweizsacker" height="30" width="40" /></a>
+<a href="https://codepen.io/fillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fillipi" height="30" width="40" /></a>
 <a href="https://twitter.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vpfillipi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pfillipi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14904318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14904318" height="30" width="40" /></a>
