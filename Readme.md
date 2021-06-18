@@ -13,7 +13,7 @@
 
 - 📫 Hvordan kontakte meg **pfillipi@gmx.de**
 
-- ⚡ Morsomt faktum **Jeg er en faktisk globetrotter som snakker flere språk som spiller klassisk musikk og forskjellige språk.**
+- ⚡ Morsomt faktum **Jeg er en faktisk globetrotter som snakker flere språk som spiller klassisk musikk.**
 
 <h3 align="left">Ta kontakt med meg:</h3>
 <p align="left">
