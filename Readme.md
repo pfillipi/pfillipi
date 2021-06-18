@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vpfillipi" target="blank"><img src="https://img.shields.io/twitter/follow/vpfillipi?logo=twitter&style=for-the-badge" alt="vpfillipi" /></a> </p>
 
-- 🌱 For tiden kommer dypere på **JavaScript**
+- 🌱 For tiden kommer dypere på **Next**
 
-- 💬 Spør meg om **Javascript**
+- 💬 Spør meg om **TypeScript**
 
-- 📫 Hvordan nå meg **pfillipi@gmx.de**
+- 📫 Hvordan kontakte meg **pfillipi@gmx.de**
 
 - ⚡ Morsomt faktum **Jeg er en faktisk Globetrotter**
 
