@@ -11,7 +11,7 @@
 
 - 💬 Spør meg om **TypeScript**
 
-- 📫 Hvordan kontakte meg **pfillipi@gmx.de**
+- 📫 Hvordan kontakte meg: **pfillipi@gmx.de**
 
 - ⚡ Morsomt faktum **Jeg er en faktisk globetrotter som snakker flere språk som spiller klassisk musikk.**
 
