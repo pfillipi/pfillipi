@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vpfillipi" target="blank"><img src="https://img.shields.io/twitter/follow/vpfillipi?logo=twitter&style=for-the-badge" alt="vpfillipi" /></a> </p>
 
-- 🌱 For tiden kommer dypere på **Next**
+- 🌱 For tiden kommer dypere på **NextJS**
 
 - 💬 Spør meg om **TypeScript**
 
