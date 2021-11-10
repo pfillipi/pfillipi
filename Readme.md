@@ -9,7 +9,7 @@
 
 - 🌱 For tiden kommer dypere på **NextJS**
 
-- 💬 Spør meg om **TypeScript**
+- 💬 Spør meg om **TypeScriptJS**
 
 - 📫 Hvordan kontakte meg: **pfillipi@gmx.de**
 
