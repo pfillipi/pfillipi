@@ -1,3 +1,43 @@
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 3px solid;
+          font-family: monospace;
+          font-size: 2em;
+        }
+
+				.typing-demo b {
+					text-decoration: underline;
+				}
+
+        @keyframes typing {
+          from {
+            width: 0
+          }
+        }
+            
+        @keyframes blink {
+          50% {
+            border-color: transparent
+          }
+        }
+			</style>
+			<div class="container">
+        <div class="wrapper">
+            <div class="typing-demo">
+              Hei sann. Jeg er <b>Fillipi Pereira</b>.
+            </div>          
+        </div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
+
+<div class="credit">
+  <p>Original CSS typing effect: <a href="https://codepen.io/denic/pen/GRoOxbM" target="_blank">https://codepen.io/denic/pen/GRoOxbM</a></p>
+  <p>Custom CSS styles in github readmes: <a href="https://css-tricks.com/custom-styles-in-github-readmes/" target="_blank">https://css-tricks.com/custom-styles-in-github-readmes/</a>
+  </p>
+</div>
+
 <h1 align="center">Heisann 👋, jeg er Fillipi.</h1>
 <h3 align="center">Jeg er en makeløs fullstacksingeniør i Oslo.</h3>
 
