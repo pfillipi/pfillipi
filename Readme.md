@@ -2,6 +2,7 @@
 
 <h3 align="center">Jeg er en makeløs fullstacksingeniør i Oslo.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profilvisninger&color=0e75b6&style=flat" alt="pfillipi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pfillipi" alt="pfillipi" /></a> </p>
