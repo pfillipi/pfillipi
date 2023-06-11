@@ -1,5 +1,5 @@
 <h1 align="center">Heisann 👋, jeg er Fillipi.</h1>
-<h1 align="center">Jeg håper du har det bra.</h1>
+<h2 align="center">Jeg håper du har det bra.</h2>
 
 <h3 align="center">Jeg er en makeløs fullstacksingeniør i Oslo.</h3>
 
