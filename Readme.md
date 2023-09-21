@@ -11,8 +11,6 @@
 
 <h2>Takk for at du besøkte min GitHub-profil! Ikke nøl med å ta kontakt hvis du vil samarbeide på spennende prosjekter eller bare slå av en prat om våre felles interesser.</h2>
 
-<h3>Du kan tilpasse denne beskrivelsen etter dine preferanser og behov.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profilvisninger&color=0e75b6&style=flat" alt="pfillipi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pfillipi" alt="pfillipi" /></a> </p>
