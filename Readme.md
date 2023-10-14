@@ -1,15 +1,15 @@
-<h1 align="center">Heisann 👋, jeg er Fillipi.</h1>
+<p align="center">Heisann 👋, jeg er Fillipi.</p>
 
-<h2 align="center">Jeg håper du har det bra.</h2>
+<p align="center">Jeg håper du har det bra.<p>
 
-<h3 align="left">
-👋 Hei! Jeg er Fillipi, en lidenskapelig utvikler med erfaring innen React, Node, React Native og Python. Jeg har også hatt gleden av å arbeide med MongoDB i mine prosjekter.</h3>
+<p align="left">
+👋 Hei! Jeg er Fillipi, en lidenskapelig utvikler med erfaring innen React, Node, React Native og Python. Jeg har også hatt gleden av å arbeide med MongoDB i mine prosjekter.</p>
 
-<h3>🌍 I tillegg til min kjærlighet for koding, elsker jeg å utforske verden og har en lidenskap for å reise. Jeg er heldig nok til å snakke 6 språk, noe som hjelper meg med å forstå og kommunisere på tvers av kulturer.</h3>
+<p>🌍 I tillegg til min kjærlighet for koding, elsker jeg å utforske verden og har en lidenskap for å reise. Jeg er heldig nok til å snakke 6 språk, noe som hjelper meg med å forstå og kommunisere på tvers av kulturer.</hp>
 
-<h3>🎻 På fritiden min finner du meg ofte med en fiolin i hånden, hvor jeg dykker ned i musikkens verden. Jeg har også en dyp interesse for geopolitikk, jus og vitenskap, og jeg er alltid ivrig etter å lære mer om disse feltene.</h3>
+<p>🎻 På fritiden min finner du meg ofte med en fiolin i hånden, hvor jeg dykker ned i musikkens verden. Jeg har også en dyp interesse for geopolitikk, jus og vitenskap, og jeg er alltid ivrig etter å lære mer om disse feltene.</p>
 
-<h2>Takk for at du besøkte min GitHub-profil! Ikke nøl med å ta kontakt hvis du vil samarbeide på spennende prosjekter eller bare slå av en prat om våre felles interesser.</h2>
+<p>Takk for at du besøkte min GitHub-profil! Ikke nøl med å ta kontakt hvis du vil samarbeide på spennende prosjekter eller bare slå av en prat om våre felles interesser.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profilvisninger&color=0e75b6&style=flat" alt="pfillipi" /> </p>
 
