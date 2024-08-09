@@ -3,7 +3,7 @@
 <p align="center">Jeg håper du har det bra.<p>
 
 <p align="left">
-👋 Hei! Jeg er Fillipi, en lidenskapelig utvikler med erfaring innen React, Node, React Native og Python. Jeg har også hatt gleden av å arbeide med MongoDB i mine prosjekter.</p>
+👋 Hei! Jeg er Fillipi, en lidenskapelig utvikler med erfaring innen React, Node og Python. Jeg har også hatt gleden av å arbeide med MongoDB i mine prosjekter.</p>
 
 <p>🌍 I tillegg til min kjærlighet for koding, elsker jeg å utforske verden og har en lidenskap for å reise. Jeg er heldig nok til å snakke 6 språk, noe som hjelper meg med å forstå og kommunisere på tvers av kulturer.</hp>
 
