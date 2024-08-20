@@ -1,10 +1,44 @@
-<p align="center">Heisann 👋, jeg er Fillipi.</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="center">Jeg håper du har det bra.<p>
 
+<p align="left"> 
+  Heisann, jeg heter Fillipi, bor i Oslo og jeg er en <strong>Full-Stack utvikler, UX Designer</strong> og teknisk sjef av <strong>DEV OM</strong>.<br>
+</p>
+<p align="left">Jeg håper det du har det bra.</p>
+<p align="left">I bring a strong foundation in building dynamic and scalable web and mobile applications using modern technologies. I am always looking to solve complex problems through clean code, collaboration, and an agile workflow.</p>
 <p align="left">
-👋 Hei! Jeg er Fillipi, en lidenskapelig utvikler med erfaring innen React, Node og Python. Jeg har også hatt gleden av å arbeide med MongoDB i mine prosjekter.</p>
 
+<h2>🚀 Hovedferdigheter</h2>
+
+<p>
+  <code><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="html"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="css"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native"/></code>
+  <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="styled components"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwindcss"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai"/></code>
+</p>
+
+<h2>💼 Arbeidsverktøy:</h2>
+
+<p>
+  <code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="git"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel"/></code>
+</p>
+
+<h2>Kuriositeter:</h2>
 <p>🌍 I tillegg til min kjærlighet for koding, elsker jeg å utforske verden og har en lidenskap for å reise. Jeg er heldig nok til å snakke 6 språk, noe som hjelper meg med å forstå og kommunisere på tvers av kulturer.</hp>
 
 <p>🎻 På fritiden min finner du meg ofte med en fiolin i hånden, hvor jeg dykker ned i musikkens verden. Jeg har også en dyp interesse for geopolitikk, jus og vitenskap, og jeg er alltid ivrig etter å lære mer om disse feltene.</p>
@@ -29,7 +63,6 @@
 <p align="left">
 <a href="https://codepen.io/fillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fillipi" height="30" width="40" /></a>
 <a href="https://twitter.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vpfillipi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pfillipi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14904318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14904318" height="30" width="40" /></a>
 <a href="https://kaggle.com/5187330" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="5187330" height="30" width="40" /></a>
 <a href="https://fb.com/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pfillipi" height="30" width="40" /></a>
@@ -37,9 +70,6 @@
 <a href="https://www.youtube.com/c/uckv0ybzw0rfsr0qxiwjpaxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckv0ybzw0rfsr0qxiwjpaxq" height="30" width="40" /></a>
 <a href="https://discord.gg/UHk5KbFY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="UHk5KbFY" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Programspåk og verktøy:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Støtt meg:</h3>
 <p><a href="https://www.buymeacoffee.com/fillipi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fillipi" /></a></p><br />
