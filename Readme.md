@@ -5,7 +5,7 @@
   Heisann, jeg heter Fillipi, bor i Oslo og jeg er en <strong>Full-Stack utvikler, UX Designer</strong> og teknisk sjef av <strong>DEV OM</strong>.<br>
 </p>
 <p align="left">Jeg håper det du har det bra.</p>
-<p align="left">I bring a strong foundation in building dynamic and scalable web and mobile applications using modern technologies. I am always looking to solve complex problems through clean code, collaboration, and an agile workflow.</p>
+<p align="left">Jeg har solid erfaring med å bygge dynamiske og skalerbare web- og mobilapplikasjoner med moderne teknologier. Jeg liker å løse komplekse utfordringer med ren kode, godt samarbeid og en effektiv arbeidsflyt.</p>
 <p align="left">
 
 <h2>🚀 Hovedferdigheter</h2>
@@ -27,7 +27,7 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai"/></code>
 </p>
 
-<h2>💼 Arbeidsverktøy:</h2>
+<h2>💼 Arbeidsverktøy</h2>
 
 <p>
   <code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode"/></code>
