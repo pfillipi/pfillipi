@@ -24,7 +24,6 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai"/></code>
 </p>
 
