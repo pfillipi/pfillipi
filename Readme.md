@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  Heisann, jeg heter Fillipi, bor i Oslo og jeg er en <strong>Full-Stack utvikler, UX Designer</strong> og teknisk sjef av <strong>DEV OM</strong>.<br>
+  Heisann, jeg heter Fillipi, bor i Oslo og jeg er en <strong>Full-Stack utvikler</strong> og teknisk sjef av <strong>DEV OM</strong>.<br>
 </p>
 <p align="left">Jeg håper det du har det bra.</p>
 <p align="left">Jeg har solid erfaring med å bygge dynamiske og skalerbare web- og mobilapplikasjoner med moderne teknologier. Jeg liker å løse komplekse utfordringer med ren kode, godt samarbeid og en effektiv arbeidsflyt.</p>
