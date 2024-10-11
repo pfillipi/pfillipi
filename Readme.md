@@ -15,26 +15,26 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="css" title="CSS"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript" title="JavaScript"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" title="TypeScript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native"/></code>
-  <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="styled components"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwindcss"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="CSS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native" title="React Native"/></code>
+  <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS" title="NextJS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs" title="NodeJS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="styled components" title="Styled Components"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwindcss" title="Tailwind CSS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" title="MySQL"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres" title="Postgres"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker" title="Docker"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai" title="AI"/></code>
 </p>
 
 <h2>💼 Arbeidsverktøy</h2>
 
 <p>
-  <code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="git"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode" title="VS Code"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="git" title="Git"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" title="GitHub"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma" title="Figma"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel" title="Vercel"/></code>
 </p>
 
 <h2>Kuriositeter:</h2>
