@@ -70,7 +70,7 @@
 <a href="https://kaggle.com/5187330" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="5187330" height="30" width="40" /></a>
 <a href="https://fb.com/pfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pfillipi" height="30" width="40" /></a>
 <a href="https://instagram.com/vpfillipi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vpfillipi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckv0ybzw0rfsr0qxiwjpaxq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckv0ybzw0rfsr0qxiwjpaxq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vonweizsacker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uckv0ybzw0rfsr0qxiwjpaxq" height="30" width="40" /></a>
 <a href="https://discord.gg/UHk5KbFY" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="UHk5KbFY" height="30" width="40" /></a>
 </p>
 
