@@ -11,10 +11,10 @@
 <h2>🚀 Hovedferdigheter</h2>
 
 <p>
-  <code><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="html"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="css"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="html" title="HTML"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="css" title="CSS"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript" title="JavaScript"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" title="TypeScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native"/></code>
   <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS"/></code>
