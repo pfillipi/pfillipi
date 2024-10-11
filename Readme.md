@@ -56,7 +56,11 @@
 
 - 📫 Hvordan kontakte meg: **pfillipi@gmx.de**
 
-- ⚡ Morsomt faktum **Jeg er en faktisk globetrotter, snakker flere språk og liker klassisk musikk.**
+- ⚡ Morsomt faktum:
+  - **Jeg er en faktisk globetrotter, snakker flere språk og liker klassisk musikk.**
+  - **Jeg kan flere ulike dansestiler som salsa, bachata, kizomba, forró, mambo, tango og spesielt norske folkedanser.**
+  - **Å kunne forskjellige typer danser gjør det lettere å lære nye.**
+  - **Det tar tid å lære og vedlikeholde disse ferdighetene på samme måte som med programmering.**
 
 <h3 align="left">Ta kontakt med meg:</h3>
 <p align="left">
