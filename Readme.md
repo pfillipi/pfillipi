@@ -24,7 +24,7 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" title="MySQL"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres" title="Postgres"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker" title="Docker"/></code>
-  <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai" title="AI"/></code>
+  <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai" title="Artificial Inteligence"/></code>
 </p>
 
 <h2>💼 Arbeidsverktøy</h2>
