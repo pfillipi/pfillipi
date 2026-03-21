@@ -17,7 +17,7 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript" title="TypeScript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native" title="React Native"/></code>
-  <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS" title="NextJS"/></code>
+  <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" title="NextJS"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs" title="NodeJS"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="styled components" title="Styled Components"/></code>
   <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailwindcss" title="Tailwind CSS"/></code>
