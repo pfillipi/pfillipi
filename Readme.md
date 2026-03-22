@@ -38,7 +38,7 @@
 </p>
 
 <h2>Kuriositeter:</h2>
-<p>🌍 I tillegg til min kjærlighet for koding, elsker jeg å utforske verden og har en lidenskap for å reise. Jeg er heldig nok til å snakke 6 språk, noe som hjelper meg med å forstå og kommunisere på tvers av kulturer.</hp>
+<p>For meg handler teknologi ikke bare om kode, men om mennesker. Jeg liker å bruke kompetansen min til å bidra positivt der jeg bor. Jeg er sosial av natur, med en humanistisk tilnærming, og har stor glede av å møte folk med ulike bakgrunner. Språk og reiser har vært viktige dører inn til verden.</hp>
 
 <p>🎻 På fritiden min finner du meg ofte med en fiolin i hånden, hvor jeg dykker ned i musikkens verden. Jeg har også en dyp interesse for geopolitikk, jus og vitenskap, og jeg er alltid ivrig etter å lære mer om disse feltene.</p>
 
