@@ -38,7 +38,7 @@
 </p>
 
 <h2>Kuriositeter:</h2>
-<p>For meg handler teknologi ikke bare om kode, men om mennesker. Jeg liker å bruke kompetansen min til å bidra positivt der jeg bor. Jeg er sosial av natur, med en humanistisk tilnærming, og har stor glede av å møte folk med ulike bakgrunner. Språk og reiser har vært viktige dører inn til verden.</hp>
+<p>For meg handler teknologi ikke bare om kode, men om mennesker. Jeg liker å bruke kompetansen min til å bidra positivt der jeg bor. Jeg er sosial av natur, med en humanistisk tilnærming, og har stor glede av å møte folk med ulike bakgrunner. Språk og reiser har vært viktige dører inn til verden.</p>
 
 <p>Når jeg ikke jobber, går mye av tiden til kunst, spesielt fiolin, samt refleksjon rundt buddhisme og teknologi. Jeg liker å tenke over hvordan disse områdene henger sammen.</p>
 
