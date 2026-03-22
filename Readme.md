@@ -42,7 +42,7 @@
 
 <p>Når jeg ikke jobber, går mye av tiden til kunst, spesielt fiolin, samt refleksjon rundt buddhisme og teknologi. Jeg liker å tenke over hvordan disse områdene henger sammen.</p>
 
-<p>Takk for at du besøkte min GitHub-profil! Ikke nøl med å ta kontakt hvis du vil samarbeide på spennende prosjekter eller bare slå av en prat om våre felles interesser.</p>
+<p>Si gjerne hei om du vil samarbeide eller utveksle ideer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pfillipi&label=Profilvisninger&color=0e75b6&style=flat" alt="pfillipi" /> </p>
 
