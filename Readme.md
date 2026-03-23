@@ -8,7 +8,7 @@
 <p align="left">Jeg har solid erfaring med å bygge dynamiske og skalerbare web- og mobilapplikasjoner med moderne teknologier. Jeg liker å løse komplekse utfordringer med ren kode, godt samarbeid og en effektiv arbeidsflyt.</p>
 <p align="left">
 
-<h2>🚀 Hovedferdigheter</h2>
+<h2>Hovedferdigheter</h2>
 
 <p>
   <code><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="html" title="HTML"/></code>
