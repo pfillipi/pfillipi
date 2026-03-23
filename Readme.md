@@ -27,7 +27,7 @@
   <code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai" title="Artificial Inteligence"/></code>
 </p>
 
-<h2>💼 Arbeidsverktøy</h2>
+<h2>Arbeidsverktøy</h2>
 
 <p>
   <code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode" title="VS Code"/></code>
