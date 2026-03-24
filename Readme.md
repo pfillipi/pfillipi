@@ -54,7 +54,7 @@
 
 - 💬 Spør meg om **TypeScriptJS**
 
-- 📫 Hvordan kontakte meg: **pfillipi@gmx.de**
+- 📫 Hvordan kontakte meg: **vpfillipi@gmail.com**
 
 - ⚡ Morsomt faktum:
   - **Jeg er en faktisk globetrotter, snakker flere språk og liker klassisk musikk.**
